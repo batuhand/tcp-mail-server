@@ -1,0 +1,18 @@
+
+4
+batuhan@demircan.com
+deneme@mail.com
+Başlık
+Deneme mail içeriği
+
+#5
+deneme1@mail.com
+adres@mail.com
+Başlık2
+Mail içeriği
+
+#6
+batuhan@demircan.com
+dasdasd
+baslik
+deneme
